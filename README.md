@@ -2,7 +2,7 @@
 
 Meu nome é Sthefani Pagel 
 
-- Estou estudando na [Alura](https://www.alura.com_)
+- Estou estudando na [Alura](https://www.alura.com)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
